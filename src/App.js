@@ -14,7 +14,7 @@ function App() {
   return (
     // JSX - JavaScript Extensible parece HTML mas não é
     <div className="App">
-      <Header title="Bem Vindo! Bom almoço!" options={dados}></Header>
+      <Header title="Bem Vindo!" options={dados}></Header>
     </div>
   );
 }
